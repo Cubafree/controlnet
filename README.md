@@ -4,8 +4,6 @@ license: openrail
 
 This is the pretrained weights and some other detector weights of ControlNet.
 
-This is the pretrained weights and some other detector weights of ControlNet.
-
 See also: https://github.com/lllyasviel/ControlNet
 
 Descriptions of Files:
