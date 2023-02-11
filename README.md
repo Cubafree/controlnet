@@ -6,7 +6,7 @@ This is the pretrained weights and some other detector weights of ControlNet.
 
 See also: https://github.com/lllyasviel/ControlNet
 
-# Descriptions of Files
+# Description of Files
 
 ControlNet/models/control_sd15_canny.pth
 
