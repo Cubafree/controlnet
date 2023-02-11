@@ -74,7 +74,5 @@ ControlNet/training/fill50k.zip
 
 # Misuse, Malicious Use, and Out-of-Scope Use
 
-Note: This section is originally taken from the DALLE-MINI model card, was used for Stable Diffusion v1, but applies in the same way to Stable Diffusion v2.
-
 The model should not be used to intentionally create or disseminate images that create hostile or alienating environments for people. This includes generating images that people would foreseeably find disturbing, distressing, or offensive; or content that propagates historical or current stereotypes.
 
